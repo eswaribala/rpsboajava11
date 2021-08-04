@@ -1,0 +1,2 @@
+jaotc --output com\boa\banking\Test.so com.boa.banking.Test
+java -XX:+UnlockExperimentalVMOptions -XX:+PrintAOT  -XX:AOTLibrary=com/boa/banking/Test.so com.boa.banking.Test
