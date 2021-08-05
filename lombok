@@ -1,0 +1,4 @@
+-Doomph.update.url=http://download.eclipse.org/oomph/updates/milestone/latest
+-Doomph.redirection.index.redirection=index:/->http://git.eclipse.org/c/oomph/org.eclipse.oomph.git/plain/setups/
+--illegal-access=permit
+-javaagent:E:\golang\jee-2021-06\eclipse\lombok.jar
